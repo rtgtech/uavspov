@@ -42,5 +42,3 @@ while True:
 cap.release()
 out.release()
 cv2.destroyAllWindows()
-
-print("Video processing complete! Saved as output_video.mp4")
